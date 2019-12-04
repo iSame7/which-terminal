@@ -10,7 +10,8 @@ Configuring the terminal I use
 - I use [Solarized Dark](http://ethanschoonover.com/solarized) for the terminal colors
 - I use [powerline-shell](https://github.com/milkbikis/powerline-shell) to get those cool path bars. I usually hide the host name and the user, before running `python ./setup.py install`, edit the config file and comment out `username`, `hostname` [check the docs](https://github.com/b-ryan/powerline-shell#customization)
 
-⋅⋅⋅`mkdir -p ~/.config/powerline-shell`⋅⋅
+  `mkdir -p ~/.config/powerline-shell`
+  `powerline-shell --generate-config > ~/.config/powerline-shell/config.json`
 
 - I use the [Meslo Powerline Font](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) as you need a font that supports the directory characters for `powerline`
 - I use z an amazing tool to quickly jump between projects. Like Alfred but for your Terminal reduced to folder search only
