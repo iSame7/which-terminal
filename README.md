@@ -1,4 +1,7 @@
 # which-terminal
+
+<img src="Screenshot.png" width="500">
+
 Configuring the terminal I use
 
 - I use [iTerm2](https://www.iterm2.com/) instead of the Stock terminal Mac app
