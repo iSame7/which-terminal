@@ -1,6 +1,7 @@
 # which-terminal
 
 <img src="Screenshot.png" width="500">
+<img src="ScreenshotNew.png" width="500">
 
 Configuring the terminal I use
 
