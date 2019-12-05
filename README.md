@@ -1,4 +1,4 @@
-# which-terminal
+# Which terminal i use 
 
 <img src="Screenshot.png" width="500">
 <img src="ScreenshotNew.png" width="500">
