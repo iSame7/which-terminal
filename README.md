@@ -16,5 +16,5 @@ Configuring the terminal I use
 - Enable the `Show proxy icon in window title bar` option to show the folder on the window title bar for right click and drag & drop gestures
 - `Profiles` -> `Advanced` -> `Semantic History` -> `Open with editor...` -> `Sublime Text 3`
 - `Keys` -> `Replace Cycle Tabs ...` with `Next Tab` and `Previous Tab`
-
+- https://github.com/BrandonShega/dotmatrix/blob/master/README.md
 Copied from [KrauseFx](https://github.com/KrauseFx/what-terminal-is-felix-using)
