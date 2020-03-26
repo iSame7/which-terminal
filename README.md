@@ -17,4 +17,3 @@ Configuring the terminal I use
 - `Profiles` -> `Advanced` -> `Semantic History` -> `Open with editor...` -> `Sublime Text 3`
 - `Keys` -> `Replace Cycle Tabs ...` with `Next Tab` and `Previous Tab`
 - https://github.com/BrandonShega/dotmatrix/blob/master/README.md
-Copied from [KrauseFx](https://github.com/KrauseFx/what-terminal-is-felix-using)
